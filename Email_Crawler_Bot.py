@@ -1,7 +1,9 @@
+# Notes that you should read before you use this:
 # Programmed by Choyon Ahmed
 # Special thanks to Rayhan Ahmed for writing the SearX Search Engine Crawler function
-# It will be lovely if you buy me a coffee by donating some dollars in BTC for this open source project
-# Payment address available in the profile description
+# Version of python : 2.7.x (Sorry for not having the time to convert it back to latest python version support)
+# It never runs on python 3.7.x, so dont waste time running in latest python version.
+# It was coded first on 2017. If the website changes, the script may not work. Can't revise again, no time.
 # USAGE: python bot.py
 # After running the script, you will be asked few question
 # to confirm the program facilities that you love to use
